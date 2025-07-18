@@ -1,3 +1,3 @@
 # k83-Terrafrom-simple-example
 this is just a  simple  practise for  k8s-terrafrom
-# Managing Kubernetes resources via Terraform
+# Example for Managing Kubernetes resources via Terraform
